@@ -1,0 +1,1 @@
+This repository contains a detailed analysis of the recently concluded Lok Sabha elections in India. The analysis is based on the data retrieved from the Election Commission of India's official website (https://results.eci.gov.in). The primary objective is to derive key insights from the election results and present them in a comprehensive report.
